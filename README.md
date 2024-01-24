@@ -1,3 +1,5 @@
+WEB LINK : https://redux-todo-app-rouge.vercel.app/
+
 # React-Redux Todo Application with Hydration Reminder
 
 This project is a React-Redux based Todo application that not only allows users to manage their tasks efficiently but also reminds them to stay hydrated by alerting every hour. It's built using React, Redux Toolkit, and Tailwind CSS for styling. The project demonstrates a practical implementation of state management in React applications using Redux Toolkit and showcases how to structure a Redux store, actions, and reducers in a scalable manner.
